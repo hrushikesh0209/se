@@ -1,16 +1,1 @@
-# eventbuzz
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+An EventBuzz is a platform where clubs or sports can share information, updates, and news about upcoming,ongoing and past events. The app is designed to provide readers with a comprehensive resource for all events happening in a particular club or a sport. The app has 3 interfaces user,clubhead and admin. The app provides the facility to users to add events and clubs to thier favourites list. The app provides a feature for user to give thier feedback to completed events.Heads can create, edit and delete a event. 
